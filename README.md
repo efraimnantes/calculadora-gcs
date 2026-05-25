@@ -8,5 +8,5 @@ Esse trabalho é um laboratório colaborativo de Gerência de Configuração de 
 - Rudimar
 - Thiago Nogueira Rocha Felipe
 
-## Repositótio
+## Repositório
 https://github.com/efraimnantes/calculadora-gcs
