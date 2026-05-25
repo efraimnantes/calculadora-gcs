@@ -2,10 +2,10 @@
 Esse trabalho é um laboratório colaborativo de Gerência de Configuração de Software usando GitHub Flow. A ideia é criar uma calculadora modular em Python
 
 ## Integrantes
-- Arthur Yano
+- Arthur Ribeiro Yano
 - Efraim Pinheiro Nantes
 - Pedro Henrique Mendes
-- Rudimar
+- Rudimar Neves Júnior
 - Thiago Nogueira Rocha Felipe
 
 ## Repositótio
