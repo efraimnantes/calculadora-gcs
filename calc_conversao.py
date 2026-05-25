@@ -1,6 +1,6 @@
 # calc_conversao.py
 # Módulo E — Conversão
-# Autor: Nome do aluno
+# Autor: Pedro Henrique Mendes
 # Branch: feature/modulo-conversao
 
 def celsius_para_fahrenheit(celsius):
