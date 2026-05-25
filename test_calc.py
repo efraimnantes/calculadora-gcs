@@ -22,3 +22,22 @@ def test_dividir():
 def test_dividir_por_zero():
     with pytest.raises(ValueError):
         dividir(10, 0)
+
+
+from calc_conversao import (
+    celsius_para_fahrenheit,
+    km_para_milhas,
+    kg_para_libras
+)
+
+
+def test_celsius_para_fahrenheit():
+    assert celsius_para_fahrenheit(0) == 32
+
+
+def test_km_para_milhas():
+    assert round(km_para_milhas(10), 2) == 6.21
+
+
+def test_kg_para_libras():
+    assert round(kg_para_libras(5), 2) == 11.02
