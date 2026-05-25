@@ -1,6 +1,6 @@
 # calc_estatistica.py
 # Módulo D — Estatística
-# Autor: Nome do aluno
+# Autor: Pedro Henrique Mendes
 # Branch: feature/modulo-estatistica
 
 import math
